@@ -1,0 +1,18 @@
+this is some text
+
+that was a blank line
+this is a snowman: ☃
+
+that was another blank line
+and this is a smiley: ☺
+
+(yep, blank line.)
+  TRICK LINE!
+
+old school smiley: 8^)
+old school smiley with beard: 8^)=
+
+☹ FROWNY
+
+and finally, let's end on some line noise:
+~!@#$%^&*(   this is perl, after all. gotta have some line noise.
